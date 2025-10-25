@@ -16,7 +16,7 @@ _A curated list of awesome resources for paleontology._
 
 </details>
 
-**Note on Repositories vs. Software**: Throughout this list, **Repositories** sections contain source code hosted on GitHub/GitLab for researchers and developers, while **Software** sections contain downloadable applications and tools for end-users (excluding items already listed in Repositories).
+![](./assets/paleontology.jpg)
 
 ## Contents
 
@@ -99,15 +99,8 @@ _A curated list of awesome resources for paleontology._
 
 ### Researchers
 
-- [Donald Prothero](https://www.donaldprothero.com/): Vertebrate paleontologist specializing in mammalian evolution and stratigraphy.
-- [Jack Sepkoski](https://en.wikipedia.org/wiki/J._John_Sepkoski): Pioneering paleobiologist who quantified marine diversity patterns (deceased).
-- [David Raup](https://en.wikipedia.org/wiki/David_M._Raup): Theoretical paleobiologist who studied extinction patterns (deceased).
-- [Michael Benton](https://www.bris.ac.uk/people/michael-j-benton.html): University of Bristol vertebrate paleontologist studying mass extinctions.
-- [Susan Kidwell](https://geosci.uchicago.edu/people/susan-kidwell/): University of Chicago taphonomist and sedimentary geologist.
-- [Derek Briggs](https://earth.yale.edu/people/derek-briggs): Yale paleontologist specializing in exceptional fossil preservation.
-- [Steve Brusatte](https://www.ed.ac.uk/profile/steve-brusatte): University of Edinburgh vertebrate paleontologist studying dinosaur evolution.
-- [Mary Droser](https://profiles.ucr.edu/app/home/profile/droser): UCR paleontologist studying early animal evolution and the Ediacaran.
-- [Shanan Peters](https://geoscience.wisc.edu/geoscience/people/faculty/shanan-peters/): UW-Madison geoscientist developing paleobiological databases.
+- [Shanan Peters](https://github.com/cambro): UW-Madison geoscientist developing paleobiological databases and Macrostrat.
+- [Ádám T. Kocsis](https://github.com/adamkocsis): Developer of divDyn and chronosphere R packages for paleobiology.
 
 ### Courses
 
