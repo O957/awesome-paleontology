@@ -55,6 +55,7 @@ _A curated list of awesome resources for paleontology._
   - [Reading Lists](#reading-lists-4)
   - [Repositories](#repositories-4)
   - [Software](#software-5)
+- [Contribution](#contribution)
 
 ## General Resources
 
@@ -244,6 +245,10 @@ _A curated list of awesome resources for paleontology._
 - [MorphoJ](https://morphometrics.uk/MorphoJ_page.html): Integrated software for geometric morphometrics.
 - [BEAST](https://beast.community/): Bayesian evolutionary analysis by sampling trees.
 - [FigTree](http://tree.bio.ed.ac.uk/software/figtree/): Graphical viewer of phylogenetic trees.
+
+## Contribution
+
+Notice anything missing that would be a good fit? If interested in contributing, please see the [contributing file](./CONTRIBUTING.md) for further direction.
 
 ## License
 
