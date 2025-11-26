@@ -13,6 +13,7 @@ dot_acn = ".acn"
 dot_fot = ".fot"
 dot_ist = ".ist"
 MERCHANTIBILITY = "MERCHANTIBILITY"
+Udo = "Udo"
 
 [files]
 extend-exclude = [
