@@ -109,6 +109,7 @@ _A curated list of awesome resources for paleontology._
 
 1. [Shanan Peters](https://github.com/cambro): UW-Madison geoscientist developing paleobiological databases and Macrostrat.
 2. [Ádám T. Kocsis](https://github.com/adamkocsis): Developer of divDyn and chronosphere R packages for paleobiology.
+3. ...
 
 ### Courses
 
