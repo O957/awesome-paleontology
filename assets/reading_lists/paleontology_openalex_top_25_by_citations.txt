@@ -1,0 +1,226 @@
+Top 25 Papers Citation Search Results
+Generated: 2025-10-28 02:33:33
+================================================================================
+
+1. PAST: PALEONTOLOGICAL STATISTICAL SOFTWARE PACKAGE FOR EDUCATION AND DATA ANALYSIS
+   Authors: Øyvind Hammer, David A. T. Harper, Paul D. Ryan
+   Year: 2001
+   Citations: 18333
+   Source: Palaeontologia Electronica
+   Open Access: No
+
+2. Ecological and Evolutionary Responses to Recent Climate Change
+   Authors: Camille Parmesan
+   Year: 2006
+   Citations: 8185
+   Source: Annual Review of Ecology Evolution and Systematics
+   DOI: https://doi.org/10.1146/annurev.ecolsys.37.091305.110100
+   URL: https://doi.org/10.1146/annurev.ecolsys.37.091305.110100
+   Open Access: No
+
+3. The Neutral Theory of Molecular Evolution
+   Authors: Makoto Kimura
+   Year: 1979
+   Citations: 7985
+   Source: Scientific American
+   DOI: https://doi.org/10.1038/scientificamerican1179-98
+   URL: https://doi.org/10.1038/scientificamerican1179-98
+   Open Access: No
+
+4. Chronology of Fluctuating Sea Levels Since the Triassic
+   Authors: Bilal U. Haq, Jan Hardenbol, Peter R. Vail
+   Year: 1987
+   Citations: 7201
+   Source: Science
+   DOI: https://doi.org/10.1126/science.235.4793.1156
+   URL: https://doi.org/10.1126/science.235.4793.1156
+   Open Access: No
+
+5. Pattern Classification and Scene Analysis
+   Authors: Michael Thompson, Richard O. Duda, Peter E. Hart
+   Year: 1974
+   Citations: 4546
+   Source: Leonardo
+   DOI: https://doi.org/10.2307/1573081
+   URL: https://doi.org/10.2307/1573081
+   Open Access: No
+
+6. Morphometric Tools for Landmark Data
+   Authors: Fred L. Bookstein
+   Year: 1992
+   Citations: 4347
+   Source: Unknown
+   DOI: https://doi.org/10.1017/cbo9780511573064
+   URL: https://doi.org/10.1017/cbo9780511573064
+   Open Access: No
+
+7. A Draft Sequence of the Neandertal Genome
+   Authors: Richard E. Green, Johannes Krause, Adrian W. Briggs, Tomislav Maričić, Udo Stenzel
+   Year: 2010
+   Citations: 4287
+   Source: Science
+   DOI: https://doi.org/10.1126/science.1188021
+   URL: https://doi.org/10.1126/science.1188021
+   Open Access: Yes
+
+8. Genetics and the Origin of Species
+   Authors: Theodosius Dobzhansky
+   Year: 1952
+   Citations: 4107
+   Source: AIBS Bulletin
+   DOI: https://doi.org/10.1093/aibsbulletin/2.2.14-b
+   URL: https://doi.org/10.1093/aibsbulletin/2.2.14-b
+   Open Access: No
+
+9. SoilGrids250m: Global gridded soil information based on machine learning
+   Authors: Tomislav Hengl, Jorge Mendes de Jesus, G.B.M. Heuvelink, M. Ruiperez González, Milan Kilibarda
+   Year: 2017
+   Citations: 4106
+   Source: PLoS ONE
+   DOI: https://doi.org/10.1371/journal.pone.0169748
+   URL: https://doi.org/10.1371/journal.pone.0169748
+   Open Access: Yes
+
+10. Initial reports of the deep sea drilling project
+   Authors: Roland von Huene
+   Year: 1971
+   Citations: 4048
+   Source: Marine Geology
+   DOI: https://doi.org/10.1016/0025-3227(71)90053-3
+   URL: https://doi.org/10.1016/0025-3227(71)90053-3
+   Open Access: No
+
+11. Ocean Acidification: The Other CO<sub>2</sub>Problem
+   Authors: Scott C. Doney, Victoria J. Fabry, Richard A. Feely, Joan A. Kleypas
+   Year: 2008
+   Citations: 4002
+   Source: Annual Review of Marine Science
+   DOI: https://doi.org/10.1146/annurev.marine.010908.163834
+   URL: https://doi.org/10.1146/annurev.marine.010908.163834
+   Open Access: No
+
+12. Extraterrestrial Cause for the Cretaceous-Tertiary Extinction
+   Authors: Luis W. Alvarez, Walter Álvarez, Frank Asaro, Helen V. Michel
+   Year: 1980
+   Citations: 3910
+   Source: Science
+   DOI: https://doi.org/10.1126/science.208.4448.1095
+   URL: https://doi.org/10.1126/science.208.4448.1095
+   Open Access: No
+
+13. BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis
+   Authors: Remco Bouckaert, Timothy G. Vaughan, Joëlle Barido‐Sottani, Sebastián Duchêne, Mathieu Fourment
+   Year: 2019
+   Citations: 3806
+   Source: PLoS Computational Biology
+   DOI: https://doi.org/10.1371/journal.pcbi.1006650
+   URL: https://doi.org/10.1371/journal.pcbi.1006650
+   Open Access: Yes
+
+14. Impacts of climate change on the future of biodiversity
+   Authors: Céline Bellard, Cléo Bertelsmeier, Paul Leadley, Wilfried Thuiller, Franck Courchamp
+   Year: 2012
+   Citations: 3800
+   Source: Ecology Letters
+   DOI: https://doi.org/10.1111/j.1461-0248.2011.01736.x
+   URL: https://doi.org/10.1111/j.1461-0248.2011.01736.x
+   Open Access: Yes
+
+15. Accelerated modern human–induced species losses: Entering the sixth mass extinction
+   Authors: Gerardo Ceballos, Paul R. Ehrlich, Anthony D. Barnosky, Andrés García, Robert M. Pringle
+   Year: 2015
+   Citations: 3788
+   Source: Science Advances
+   DOI: https://doi.org/10.1126/sciadv.1400253
+   URL: https://doi.org/10.1126/sciadv.1400253
+   Open Access: Yes
+
+16. Treatise on Invertebrate Paleontology
+   Authors: Raymond C. Moore
+   Year: 1950
+   Citations: 3716
+   Source: The Micropaleontologist
+   DOI: https://doi.org/10.2307/1483846
+   URL: https://doi.org/10.2307/1483846
+   Open Access: No
+
+17. Spatial Autocorrelation: Trouble or New Paradigm?
+   Authors: Pierre Legendre
+   Year: 1993
+   Citations: 3648
+   Source: Ecology
+   DOI: https://doi.org/10.2307/1939924
+   URL: https://doi.org/10.2307/1939924
+   Open Access: No
+
+18. Bayesian phylogenetic and phylodynamic data integration using BEAST 1.10
+   Authors: Marc A. Suchard, Philippe Lemey, Guy Baele, Daniel L. Ayres, Alexei J. Drummond
+   Year: 2018
+   Citations: 3452
+   Source: Virus Evolution
+   DOI: https://doi.org/10.1093/ve/vey016
+   URL: https://doi.org/10.1093/ve/vey016
+   Open Access: Yes
+
+19. Depletion, Degradation, and Recovery Potential of Estuaries and Coastal Seas
+   Authors: Heike K. Lotze, Hunter S. Lenihan, Bruce J. Bourque, Roger Bradbury, Richard G. Cooke
+   Year: 2006
+   Citations: 3197
+   Source: Science
+   DOI: https://doi.org/10.1126/science.1128035
+   URL: https://doi.org/10.1126/science.1128035
+   Open Access: No
+
+20. Bayesian Coalescent Inference of Past Population Dynamics from Molecular Sequences
+   Authors: Alexei J. Drummond
+   Year: 2005
+   Citations: 3166
+   Source: Molecular Biology and Evolution
+   DOI: https://doi.org/10.1093/molbev/msi103
+   URL: https://doi.org/10.1093/molbev/msi103
+   Open Access: Yes
+
+21. Compendium of Soil Fungi
+   Authors: Michael Dunn, K. H. Domsch, W. Gams, Traute‐Heidi Anderson
+   Year: 1982
+   Citations: 2949
+   Source: Taxon
+   DOI: https://doi.org/10.2307/1220704
+   URL: https://doi.org/10.2307/1220704
+   Open Access: No
+
+22. Punctuated equilibria: the tempo and mode of evolution reconsidered
+   Authors: Stephen Jay Gould, Niles Eldredge
+   Year: 1977
+   Citations: 2694
+   Source: Paleobiology
+   DOI: https://doi.org/10.1017/s0094837300005224
+   URL: https://doi.org/10.1017/s0094837300005224
+   Open Access: No
+
+23. Compilation of stable isotope fractionation factors of geochemical interest
+   Authors: Irving Friedman, James R. O’Neil
+   Year: 1977
+   Citations: 2609
+   Source: USGS professional paper
+   DOI: https://doi.org/10.3133/pp440kk
+   URL: https://doi.org/10.3133/pp440kk
+   Open Access: Yes
+
+24. Scientific collaboration networks. II. Shortest paths, weighted networks, and centrality
+   Authors: M. E. J. Newman
+   Year: 2001
+   Citations: 2606
+   Source: Physical review. E, Statistical physics, plasmas, fluids, and related interdisciplinary topics
+   DOI: https://doi.org/10.1103/physreve.64.016132
+   URL: https://doi.org/10.1103/physreve.64.016132
+   Open Access: Yes
+
+25. Tectonic Implications of the Composition of Volcanic ARC Magmas
+   Authors: Julian A. Pearce, D.W. Peate
+   Year: 1995
+   Citations: 2580
+   Source: Annual Review of Earth and Planetary Sciences
+   DOI: https://doi.org/10.1146/annurev.ea.23.050195.001343
+   URL: https://doi.org/10.1146/annurev.ea.23.050195.001343
+   Open Access: No
