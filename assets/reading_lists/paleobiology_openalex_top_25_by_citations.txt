@@ -1,0 +1,228 @@
+Top 25 Papers Citation Search Results
+Generated: 2025-10-28 02:35:24
+================================================================================
+
+1. Has the Earth’s sixth mass extinction already arrived?
+   Authors: Anthony D. Barnosky, Nicholas J. Matzke, Susumu Tomiya, Guinevere O. U. Wogan, Brian Swartz
+   Year: 2011
+   Citations: 4048
+   Source: Nature
+   DOI: https://doi.org/10.1038/nature09678
+   URL: https://doi.org/10.1038/nature09678
+   Open Access: No
+
+2. Defining ‘Evolutionarily Significant Units’ for conservation
+   Authors: Craig Moritz
+   Year: 1994
+   Citations: 3255
+   Source: Trends in Ecology & Evolution
+   DOI: https://doi.org/10.1016/0169-5347(94)90057-4
+   URL: https://doi.org/10.1016/0169-5347(94)90057-4
+   Open Access: No
+
+3. A negative feedback mechanism for the long‐term stabilization of Earth's surface temperature
+   Authors: James C. G. Walker, P. B. Hays, James F. Kasting
+   Year: 1981
+   Citations: 2172
+   Source: Journal of Geophysical Research Atmospheres
+   DOI: https://doi.org/10.1029/jc086ic10p09776
+   URL: https://doi.org/10.1029/jc086ic10p09776
+   Open Access: No
+
+4. NMNH occurrence DwC-A
+   Authors: Bc ff - e - dc- f-B a c a
+   Year: 2016
+   Citations: 1900
+   Source: Global Biodiversity Information Facility
+   DOI: https://doi.org/10.15468/dipjcr
+   URL: https://doi.org/10.15468/dipjcr
+   Open Access: Yes
+
+5. Coral reefs in the Anthropocene
+   Authors: Terry P. Hughes, Michele L. Barnes, David R. Bellwood, Joshua E. Cinner, Graeme S. Cumming
+   Year: 2017
+   Citations: 1869
+   Source: Nature
+   DOI: https://doi.org/10.1038/nature22901
+   URL: https://doi.org/10.1038/nature22901
+   Open Access: Yes
+
+6. Niche conservatism as an emerging principle in ecology and conservation biology
+   Authors: John J. Wiens, David D. Ackerly, Andrew P. Allen, Brian L. Anacker, Lauren B. Buckley
+   Year: 2010
+   Citations: 1752
+   Source: Ecology Letters
+   DOI: https://doi.org/10.1111/j.1461-0248.2010.01515.x
+   URL: https://doi.org/10.1111/j.1461-0248.2010.01515.x
+   Open Access: No
+
+7. Mass Extinctions in the Marine Fossil Record
+   Authors: David M. Raup, J. John Sepkoski
+   Year: 1982
+   Citations: 1693
+   Source: Science
+   DOI: https://doi.org/10.1126/science.215.4539.1501
+   URL: https://doi.org/10.1126/science.215.4539.1501
+   Open Access: No
+
+8. NMNH Paleobiology Specimen Records (USNM)
+   Authors: Thomas Orrell, Informatics Office
+   Year: 2024
+   Citations: 1519
+   Source: Global Biodiversity Information Facility
+   DOI: https://doi.org/10.15468/7m0fvd
+   URL: https://doi.org/10.15468/7m0fvd
+   Open Access: Yes
+
+9. Advances in natural language processing
+   Authors: Julia Hirschberg, Christopher D. Manning
+   Year: 2015
+   Citations: 1517
+   Source: Science
+   DOI: https://doi.org/10.1126/science.aaa8685
+   URL: https://doi.org/10.1126/science.aaa8685
+   Open Access: No
+
+10. Paleobiology Database
+   Authors: Registry-Migration.Gbif.Org
+   Year: 2019
+   Citations: 1513
+   Source: Global Biodiversity Information Facility
+   DOI: https://doi.org/10.15468/2durgn
+   URL: https://doi.org/10.15468/2durgn
+   Open Access: Yes
+
+11. Seven Shortfalls that Beset Large-Scale Knowledge of Biodiversity
+   Authors: Joaquín Hortal, Francesco de Bello, José Alexandre Felizola Diniz‐Filho, Thomas M. Lewinsohn, Jorge M. Lobo
+   Year: 2015
+   Citations: 1422
+   Source: Annual Review of Ecology Evolution and Systematics
+   DOI: https://doi.org/10.1146/annurev-ecolsys-112414-054400
+   URL: https://doi.org/10.1146/annurev-ecolsys-112414-054400
+   Open Access: No
+
+12. The Biology of Dinoflagellates
+   Authors: William A. S. Sarjeant, F. J. R. Taylor
+   Year: 1989
+   Citations: 1245
+   Source: Micropaleontology
+   DOI: https://doi.org/10.2307/1485469
+   URL: https://doi.org/10.2307/1485469
+   Open Access: No
+
+13. Projecting Coral Reef Futures Under Global Warming and Ocean Acidification
+   Authors: John M. Pandolfi, Sean R. Connolly, Dustin J. Marshall, Anne L. Cohen
+   Year: 2011
+   Citations: 1163
+   Source: Science
+   DOI: https://doi.org/10.1126/science.1204794
+   URL: https://doi.org/10.1126/science.1204794
+   Open Access: No
+
+14. Sedimentary Environments and Facies
+   Authors: David J. Bottjer, H. G. Reading
+   Year: 1986
+   Citations: 1147
+   Source: Palaios
+   DOI: https://doi.org/10.2307/3514634
+   URL: https://doi.org/10.2307/3514634
+   Open Access: No
+
+15. Some Evolutionary Consequences of Being a Tree
+   Authors: Rémy J. Petit, Arndt Hampe
+   Year: 2006
+   Citations: 1107
+   Source: Annual Review of Ecology Evolution and Systematics
+   DOI: https://doi.org/10.1146/annurev.ecolsys.37.091305.110215
+   URL: https://doi.org/10.1146/annurev.ecolsys.37.091305.110215
+   Open Access: No
+
+16. IS A NEW AND GENERAL THEORY OF MOLECULAR SYSTEMATICS EMERGING?
+   Authors: Scott V. Edwards
+   Year: 2008
+   Citations: 1101
+   Source: Evolution
+   DOI: https://doi.org/10.1111/j.1558-5646.2008.00549.x
+   URL: https://doi.org/10.1111/j.1558-5646.2008.00549.x
+   Open Access: Yes
+
+17. The Unified Neutral Theory of Biodiversity and Biogeography at Age Ten
+   Authors: James Rosindell, Stephen P. Hubbell, Rampal S. Etienne
+   Year: 2011
+   Citations: 1048
+   Source: Trends in Ecology & Evolution
+   DOI: https://doi.org/10.1016/j.tree.2011.03.024
+   URL: https://doi.org/10.1016/j.tree.2011.03.024
+   Open Access: No
+
+18. Inferring the mammal tree: Species-level sets of phylogenies for questions in ecology, evolution, and conservation
+   Authors: Nathan S. Upham, Jacob A. Esselstyn, Walter Jetz
+   Year: 2019
+   Citations: 1005
+   Source: PLoS Biology
+   DOI: https://doi.org/10.1371/journal.pbio.3000494
+   URL: https://doi.org/10.1371/journal.pbio.3000494
+   Open Access: Yes
+
+19. The Ecology of Bird Communities
+   Authors: Stephen M. Redpath, John A. Wiens
+   Year: 1994
+   Citations: 991
+   Source: Journal of Animal Ecology
+   DOI: https://doi.org/10.2307/5600
+   URL: https://doi.org/10.2307/5600
+   Open Access: No
+
+20. Oxford Surveys in Evolutionary Biology
+   Authors: Fred W. Allendorf, Richard Dawkins, Mark Ridley
+   Year: 1989
+   Citations: 987
+   Source: Evolution
+   DOI: https://doi.org/10.2307/2409372
+   URL: https://doi.org/10.2307/2409372
+   Open Access: No
+
+21. Ocean Basin Evolution and Global-Scale Plate Reorganization Events Since Pangea Breakup
+   Authors: R. Dietmar Müller, Maria Seton, Sabin Zahirovic, Simon Williams, Kara J. Matthews
+   Year: 2016
+   Citations: 977
+   Source: Annual Review of Earth and Planetary Sciences
+   DOI: https://doi.org/10.1146/annurev-earth-060115-012211
+   URL: https://doi.org/10.1146/annurev-earth-060115-012211
+   Open Access: Yes
+
+22. The Effects of Sample Treatment and Diagenesis on the Isotopic Integrity of Carbonate in Biogenic Hydroxylapatite
+   Authors: Paul L. Koch, Noreen Tuross, Marilyn L. Fogel
+   Year: 1997
+   Citations: 930
+   Source: Journal of Archaeological Science
+   DOI: https://doi.org/10.1006/jasc.1996.0126
+   URL: https://doi.org/10.1006/jasc.1996.0126
+   Open Access: No
+
+23. <scp>CoordinateCleaner</scp>: Standardized cleaning of occurrence records from biological collection databases
+   Authors: Alexander Zizka, Daniele Silvestro, Tobias Andermann, Josué A. R. Azevedo, Camila Duarte Ritter
+   Year: 2019
+   Citations: 906
+   Source: Methods in Ecology and Evolution
+   DOI: https://doi.org/10.1111/2041-210x.13152
+   URL: https://doi.org/10.1111/2041-210x.13152
+   Open Access: Yes
+
+24. Towards a unified science of cultural evolution
+   Authors: Alex Mesoudi, Andrew Whiten, Kevin N. Laland
+   Year: 2006
+   Citations: 865
+   Source: Behavioral and Brain Sciences
+   DOI: https://doi.org/10.1017/s0140525x06009083
+   URL: https://doi.org/10.1017/s0140525x06009083
+   Open Access: No
+
+25. The Proterozoic Biosphere
+   Authors: J. William Schopf, J. William Schopf, J. William Schopf, J. William Schopf, Donald R. Lowe
+   Year: 1992
+   Citations: 855
+   Source: Cambridge University Press eBooks
+   DOI: https://doi.org/10.1017/cbo9780511601064
+   URL: https://doi.org/10.1017/cbo9780511601064
+   Open Access: No
